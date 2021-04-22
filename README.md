@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @fathurrahman0530
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fathurrahman0530/fathurrahman0530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in the world of programmers
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on I want to collaborate on a website-based project
+- 📫 How to reach me || WhatsApp : 085242488428 || Email : cfteknologi@gmail.com || Instagram : @fathurraaa
