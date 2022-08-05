@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fathurrahman0530
 - 👀 I’m interested in the world of programmers
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on I want to collaborate on a website-based project
-- 📫 How to reach me || WhatsApp : 085242488428 || Email : cfteknologi@gmail.com || Instagram : @fathurraaa
+- 👨🏻‍💻 I want to collaborate on a website-based project
+- 📫 How to reach me => WhatsApp : 085242488428 || Email : cfteknologi@gmail.com || Instagram : @fathurraaa
+- 🌏 Website => https://mypofo.rf.gd
