@@ -48,7 +48,7 @@
   <br>
   <br>
   <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/streaming/youtube.svg" width="35px" alt="Telegram">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/streaming/youtube.svg" margin="4px" alt="Youtube">
   </a> &nbsp; &nbsp;
 </p>
 
