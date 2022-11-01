@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/Quadrified/Quadrified">
-    <img width="477.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
+    <img width="377.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
   </a>
   
   <a href="https://github.com/Quadrified/Quadrified">
-    <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fathurrahman0530&layout=compact&theme=tokyonight" alt="Fathurraaa's stats" />
+    <img width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fathurrahman0530&layout=compact&theme=tokyonight" alt="Fathurraaa's stats" />
   </a>
  </div>
 
