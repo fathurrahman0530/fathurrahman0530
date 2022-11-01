@@ -6,7 +6,7 @@
   <a href="https://github.com/Quadrified/Quadrified">
     <img width="360" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
   </a>
-  
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/Quadrified/Quadrified">
     <img width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fathurrahman0530&layout=compact&theme=tokyonight" alt="Fathurraaa's stats" />
   </a>
