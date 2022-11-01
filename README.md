@@ -47,7 +47,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc | windows" style="vertical-align:top; margin:4px">
   <br>
   <br>
-  <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A">
+  <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A" target="_blank">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/streaming/youtube.svg" margin="4px" alt="Youtube">
   </a> &nbsp; &nbsp;
 </p>
@@ -59,8 +59,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fathur-rahman-6417471a0"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/fathurraaa"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+6285242488428"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/Anonym05"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/fathur-rahman-6417471a0" target="_blank">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn">
+  </a> &nbsp; &nbsp;
+  <a href="https://instagram.com/fathurraaa" target="_blank">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram">
+  </a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=+6285242488428" target="_blank">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp">
+  </a> &nbsp; &nbsp;
+  <a href="https://t.me/Anonym05" target="_blank">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram">
+  </a> &nbsp; &nbsp;
 </p>
