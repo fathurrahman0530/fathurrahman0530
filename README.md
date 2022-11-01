@@ -85,6 +85,6 @@
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram">
   </a> &nbsp; &nbsp;
   <a href="https://discord.gg/uzqF4YXdAA" target="_blank">
-    <img src="https://github.com/NNTin/discord-logo/blob/master/src/assets/animateddiscord.svg" width="35px" alt="Telegram">
+    <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="35px" alt="Telegram">
   </a> &nbsp; &nbsp;
 </p>
