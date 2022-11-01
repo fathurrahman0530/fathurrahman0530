@@ -40,11 +40,16 @@
 
 ---
 
-<h3 align="center">Devices</h3>
+<h3 align="center">Devices and Streaming</h3>
 
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/mac.svg" alt="macbook" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc | windows" style="vertical-align:top; margin:4px">
+  <br>
+  <br>
+  <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/streaming/youtube.svg" width="35px" alt="Telegram">
+  </a> &nbsp; &nbsp;
 </p>
 
 ---
