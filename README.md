@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Quadrified/Quadrified">
-    <img width="377.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
+    <img width="350" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
   </a>
   
   <a href="https://github.com/Quadrified/Quadrified">
