@@ -56,8 +56,8 @@
 <h3 align="center">Devices and Streaming</h3>
 
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/mac.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc | windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/assets/devices/mac.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/assets/devices/widows.svg" alt="pc | windows" style="vertical-align:top; margin:4px">
   <br>
   <br>
   <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A" target="_blank">
