@@ -29,15 +29,17 @@
 <h3 align="center">Languages and Frameworks</h3>
 
 <p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px"><br>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/javascript.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/dart.svg" alt="dart" style="vertical-align:top; margin:4px"><br>
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/csharp.svg" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/cpp.svg" alt="c_plus_plus" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/codeigniter.svg" alt="codeigniter" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -45,10 +47,10 @@
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" alt="android studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vs code" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/android-studio.svg" alt="android studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/visual-studio.svg" alt="visual studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/vs-code.svg" alt="vs code" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -56,13 +58,8 @@
 <h3 align="center">Devices and Streaming</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/assets/devices/mac.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/assets/devices/widows.svg" alt="pc | windows" style="vertical-align:top; margin:4px">
-  <br>
-  <br>
-  <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/streaming/youtube.svg" margin="4px" alt="Youtube">
-  </a> &nbsp; &nbsp;
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/devices/MacBook.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/devices/Windows.svg" alt="windows" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -73,18 +70,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fathur-rahman-6417471a0" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/linkedin.svg" width="35px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
   <a href="https://instagram.com/fathurraaa" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/instagram.svg" width="35px" alt="Instagram">
   </a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+6285242488428" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/whatsapp.svg" width="35px" alt="Whatsapp">
   </a> &nbsp; &nbsp;
   <a href="https://t.me/Anonym05" target="_blank">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/telegram.svg" width="35px" alt="Telegram">
   </a> &nbsp; &nbsp;
   <a href="https://discord.com/invite/mntryCEEf4" target="_blank">
-    <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="35px" alt="Telegram">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/discord.svg" width="35px" alt="discord">
+  </a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A" target="_blank">
+    <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/youtube.svg" width="35px" alt="youtube">
   </a> &nbsp; &nbsp;
 </p>
