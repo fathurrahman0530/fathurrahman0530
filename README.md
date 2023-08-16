@@ -75,7 +75,7 @@
   <a href="https://instagram.com/fathurraaa" target="_blank">
     <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/instagram.svg" width="35px" alt="Instagram">
   </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+6285242488428" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=+6281946602851" target="_blank">
     <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/whatsapp.svg" width="35px" alt="Whatsapp">
   </a> &nbsp; &nbsp;
   <a href="https://t.me/Anonym05" target="_blank">
