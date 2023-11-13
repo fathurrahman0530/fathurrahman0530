@@ -81,7 +81,7 @@
   <a href="https://t.me/Anonym05" target="_blank">
     <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/telegram.svg" width="35px" alt="Telegram">
   </a> &nbsp; &nbsp;
-  <a href="https://discord.com/invite/mntryCEEf4" target="_blank">
+  <a href="https://discord.gg/uvPPNEDbbm" target="_blank">
     <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/social/discord.svg" width="35px" alt="discord">
   </a> &nbsp; &nbsp;
   <a href="https://www.youtube.com/channel/UC3VHsXkScT1GAEwKLPcqm4A" target="_blank">
