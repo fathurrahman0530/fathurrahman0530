@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="135px" height="27px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.04 1.41"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="741" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Titan One">
+		<font-face-src>
+			<font-face-name name="Titan One"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="H" horiz-adv-x="730" d="M320.489 29.1784c0,-8.71562 -20.2733,-15.8207 -60.7251,-21.1259 -40.5466,-5.3999 -81.3774,-8.05248 -122.587,-8.05248 -41.2097,0 -67.6408,2.36838 -79.3879,7.01039 -11.7471,4.73675 -17.6207,12.1261 -17.6207,22.168l0 617.862c0,16.7681 19.4207,32.0204 58.262,45.757 38.8414,13.7366 81.0932,20.5575 126.661,20.5575 63.5672,0 95.3982,-15.0629 95.3982,-45.1886l0 -221.017 89.4299 0 0 199.891c0,16.7681 19.6101,32.0204 58.8304,45.757 39.1256,13.7366 81.5668,20.5575 127.04,20.5575 62.9988,0 94.4508,-15.0629 94.4508,-45.1886l0 -638.988c0,-8.71562 -20.368,-15.8207 -61.2936,-21.1259 -40.8308,-5.3999 -81.6616,-8.05248 -122.587,-8.05248 -40.8308,0 -67.0724,2.36838 -78.8195,7.01039 -11.7471,4.73675 -17.6207,12.1261 -17.6207,22.168l0 230.017 -89.4299 0 0 -230.017z"/>
+   <glyph unicode="P" horiz-adv-x="710" d="M319.541 29.1784c0,-8.71562 -20.4628,-15.8207 -61.2936,-21.1259 -40.9255,-5.3999 -81.7563,-8.05248 -122.587,-8.05248 -40.9255,0 -66.9777,2.36838 -78.3459,7.01039 -11.4629,4.73675 -17.147,12.1261 -17.147,22.168l0 645.998c0,32.2099 96.4402,48.2201 289.415,48.2201 116.524,0 193.544,-8.05248 231.059,-24.0627 45.5675,-18.7575 76.3564,-44.2413 92.4614,-76.3564 21.4101,-41.5887 32.1152,-94.8297 32.1152,-159.818 0,-89.0509 -15.3471,-153.66 -46.2307,-193.923 -22.0733,-29.4626 -44.1465,-48.5043 -66.3145,-57.2199 -22.0733,-8.71562 -40.3571,-14.8734 -54.7568,-18.5681 -14.3997,-3.69467 -32.3046,-6.53672 -53.7148,-8.52615 -29.4626,-2.74732 -69.6302,-4.07361 -120.598,-4.07361l-24.0627 1.04209 0 -152.713zm0.94735 319.446l24.1574 0c12.6945,0 22.7364,1.8947 30.1257,5.58937 7.38933,3.69467 13.926,13.7366 19.6101,30.1257 5.6841,16.3892 8.52615,39.5045 8.52615,69.346 0,29.7468 -3.22099,52.5779 -9.56824,68.3039 -6.34725,15.726 -12.6945,25.1048 -19.0417,28.1363 -6.34725,3.03152 -13.926,4.54728 -22.6417,4.54728l-31.1678 0 0 -206.049z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Titan One";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#009933}
+    .fil3 {fill:#32454A}
+    .fil1 {fill:url(#id0)}
+    .fnt0 {font-weight:normal;font-size:0.65px;font-family:'Titan One'}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 0.188261 0 1)" cx="3.52" cy="0.7" r="56.7" fx="3.52" fy="0.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#008241"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#00743A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#006633"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2253197990240">
+   <rect class="fil0" width="7.04" height="1.41" rx="0.16" ry="0.17"/>
+   <rect class="fil1" x="0.14" y="0.11" width="6.77" height="1.2" rx="0.16" ry="0.15"/>
+   <rect class="fil0" width="1.61" height="1.41" rx="0.2" ry="0.17"/>
+   <g transform="matrix(1.14619 0 0 1 80.0798 -21.5675)">
+    <text x="-67.5" y="22.51"  class="fil2 fnt0">PHP</text>
+   </g>
+   <rect class="fil3" x="0.12" y="0.11" width="1.37" height="1.2" rx="0.17" ry="0.15"/>
+   <image x="0.18" y="0.16" width="1.26" height="1.1" xlink:href="php_Images\php_ImgID1.png"/>
+  </g>
+ </g>
+</svg>
