@@ -14,20 +14,17 @@
 
 ---
 
-<h3 align="center">Languages and Frameworks</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/javascript.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/php.svg" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/csharp.svg" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/cpp.svg" alt="c_plus_plus" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/dart.svg" alt="dart" style="vertical-align:top; margin:4px"><br>
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/language-and-framework/codeigniter.svg" alt="codeigniter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/javascript.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/golang.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/typescript.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/language/swift.svg" alt="dart" style="vertical-align:top; margin:4px">
 </p>
 
 ---
