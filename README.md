@@ -45,22 +45,32 @@
 
 ---
 
-<h3 align="center">Development Tools</h3>
+<h3 align="center">Server & Virtualization</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/android-studio.svg" alt="android studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/visual-studio.svg" alt="visual studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/vs-code.svg" alt="vs code" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/development-tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/apache.svg" alt="android studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/docker.svg" alt="visual studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/nginx.svg" alt="vs code" style="vertical-align:top; margin:4px">
 </p>
 
 ---
 
-<h3 align="center">Devices and Streaming</h3>
+<h3 align="center">Database</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/devices/MacBook.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/new-assets/devices/Windows.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/mongodb.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/mysql.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/postgresql.svg" alt="windows" style="vertical-align:top; margin:4px">
+</p>
+
+---
+
+<h3 align="center">Operation System</h3>
+
+<p align="center">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/linux.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/macos.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/windows.svg" alt="windows" style="vertical-align:top; margin:4px">
 </p>
 
 ---
