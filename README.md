@@ -27,6 +27,24 @@
 
 ---
 
+<h3 align="center">Framework</h3>
+
+<p align="center">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/angular.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/backbone.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/codeigniter.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/django.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/flask.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/flutter.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/kotlin.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/laravel.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/nodeJS.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/reactjs.svg" alt="dart" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/framework/tailwind.svg" alt="dart" style="vertical-align:top; margin:4px">
+</p>
+
+---
+
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
