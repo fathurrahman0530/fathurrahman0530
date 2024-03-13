@@ -1,7 +1,5 @@
 <h1 align="center">Fathur Rahman Abdullah</h1>
 
----
-
 <div align="center">
   <a href="https://github.com/Quadrified/Quadrified">
     <img width="360" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fathurrahman0530&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Fathurraaa's stats" /> 
