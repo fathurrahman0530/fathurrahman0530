@@ -58,9 +58,9 @@
 <h3 align="center">Database</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/mongodb.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/mysql.svg" alt="windows" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/database/postgresql.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/mongodb.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/mysql.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/postgresql.svg" alt="windows" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -68,9 +68,9 @@
 <h3 align="center">Operation System</h3>
 
 <p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/linux.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/macos.svg" alt="windows" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/github/device/windows.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/device/linux.svg" alt="macbook" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/device/macos.svg" alt="windows" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/device/windows.svg" alt="windows" style="vertical-align:top; margin:4px">
 </p>
 
 ---
