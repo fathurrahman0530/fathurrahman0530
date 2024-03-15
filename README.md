@@ -45,25 +45,6 @@
 
 ---
 
-<h3 align="center">Server & Virtualization</h3>
-
-<p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/apache.svg" alt="android studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/docker.svg" alt="visual studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/server-virtualization/nginx.svg" alt="vs code" style="vertical-align:top; margin:4px">
-</p>
-
----
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/mongodb.svg" alt="macbook" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/mysql.svg" alt="windows" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/fathurrahman0530/fathurrahman0530/blob/main/github/database/postgresql.svg" alt="windows" style="vertical-align:top; margin:4px">
-</p>
-
----
 
 <h3 align="center">Operation System</h3>
 
